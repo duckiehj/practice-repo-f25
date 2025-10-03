@@ -1,4 +1,29 @@
-# practice-repo-f25
-This is a class example we are using to practice.
+# HW3 Assignment -Couples Resort
 
-This is a change that I made through github.com. I will pull it down.
+
+This is the couple resort Project. It is a mobile first responsive website. 
+
+## Installation
+
+There is no installation required. Download the zip file and extract. 
+
+## Usage
+
+Open the index file in your browser of choice.
+
+## Contributing
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## History
+
+To do
+
+## Credits 
+Marco De Luca
+
+## License
+See MIT License file
